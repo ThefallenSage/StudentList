@@ -21,7 +21,7 @@ public class Students
          list[i].id = s1.nextInt();
 
          System.out.println("Enter student Name:-");
-         list[i].name = s1.next();
+         list[i].name = s1.nextLine();
 
 
 
